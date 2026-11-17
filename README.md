@@ -40,7 +40,9 @@ The main objective is to clean, process, analyze, and visualize sales data to ge
 - South had the highest average delivery time.
 - Average Customer Rating: 2.97 out of 5.
 
+
 ## Project Structure
+
 ```text
 Sales-Data-Analysis/
 │
@@ -49,17 +51,19 @@ Sales-Data-Analysis/
 │   └── raw_data_ecommerce_sales_data_analyt...
 │
 ├── Excel/
-│   └── ecommerce_sales_data_analytics 
+│   └── ecommerce_sales_data_analytics
 │
 ├── Power BI/
-│    └── Data Visualization & BI Tools with AI
-|
+│   └── Data Visualization & BI Tools with AI
+│
 ├── Python/
 │   └── sales_data
 │
-└── README.md```
+└── README.md
+```
 
 ## Project Outcomes
+
 - Improved data cleaning and preprocessing skills.
 - Analyzed sales performance using Python and Excel.
 - Created visualizations to understand business trends.
@@ -67,15 +71,16 @@ Sales-Data-Analysis/
 - Identified important business insights from sales data.
 
 ## Author
+
 **Vibhuti Koriya**
 
 Aspiring Data Analyst
 
-Skills: Python | SQL | Excel | Power BI | Pandas | NumPy
+**Skills:** Python | SQL | Excel | Power BI | Pandas | NumPy
 
-Location: Rajkot, Gujarat, India
+**Location:** Rajkot, Gujarat, India
 
-LinkedIn: https://www.linkedin.com/in/vibhuti-koriya2412
+**LinkedIn:** https://www.linkedin.com/in/vibhuti-koriya2412
 
 ---
 
